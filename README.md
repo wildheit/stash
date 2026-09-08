@@ -26,3 +26,7 @@ X(Twitter)のタイムラインから写真・動画だけを効率よく閲覧�
 ## お問い合わせ・不具合報告
 
 nu0417ko@gmail.com
+
+## カンパ
+
+気に入ったら、[Buy Me a Coffee](https://buymeacoffee.com/wildheit) で開発を支援していただけると嬉しいです。
